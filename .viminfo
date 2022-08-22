@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:q!
+|2,0,1661173913,,"q!"
 :wq!
 |2,0,1661173799,,"wq!"
-:q!
-|2,0,1661173591,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -30,26 +30,38 @@
 |3,1,0,1,1,0,1661171414,"root	ALL=(ALL) 	ALL"
 
 # File marks:
-'0  1  5  ~/.gitignore.txt
-|4,48,1,5,1661173799,"~/.gitignore.txt"
-'1  115  0  /etc/ssh/sshd_config
-|4,49,115,0,1661173591,"/etc/ssh/sshd_config"
-'2  101  4  /etc/sudoers
-|4,50,101,4,1661171431,"/etc/sudoers"
-'3  63  25  /etc/ssh/sshd_config
-|4,51,63,25,1661171363,"/etc/ssh/sshd_config"
+'0  1  4  ~/.gitignore.txt
+|4,48,1,4,1661173913,"~/.gitignore.txt"
+'1  1  5  ~/.gitignore.txt
+|4,49,1,5,1661173799,"~/.gitignore.txt"
+'2  115  0  /etc/ssh/sshd_config
+|4,50,115,0,1661173591,"/etc/ssh/sshd_config"
+'3  101  4  /etc/sudoers
+|4,51,101,4,1661171431,"/etc/sudoers"
 '4  63  25  /etc/ssh/sshd_config
 |4,52,63,25,1661171363,"/etc/ssh/sshd_config"
-'5  1  0  ~/etc/passwd
-|4,53,1,0,1661170105,"~/etc/passwd"
+'5  63  25  /etc/ssh/sshd_config
+|4,53,63,25,1661171363,"/etc/ssh/sshd_config"
+'6  1  0  ~/etc/passwd
+|4,54,1,0,1661170105,"~/etc/passwd"
 
 # Jumplist (newest first):
+-'  1  4  ~/.gitignore.txt
+|4,39,1,4,1661173913,"~/.gitignore.txt"
 -'  1  5  ~/.gitignore.txt
 |4,39,1,5,1661173799,"~/.gitignore.txt"
 -'  115  0  /etc/ssh/sshd_config
 |4,39,115,0,1661173591,"/etc/ssh/sshd_config"
 -'  115  0  /etc/ssh/sshd_config
 |4,39,115,0,1661173591,"/etc/ssh/sshd_config"
+-'  115  0  /etc/ssh/sshd_config
+|4,39,115,0,1661173591,"/etc/ssh/sshd_config"
+-'  115  0  /etc/ssh/sshd_config
+|4,39,115,0,1661173591,"/etc/ssh/sshd_config"
+-'  63  25  /etc/ssh/sshd_config
+|4,39,63,25,1661171508,"/etc/ssh/sshd_config"
+-'  63  25  /etc/ssh/sshd_config
+|4,39,63,25,1661171508,"/etc/ssh/sshd_config"
 -'  63  25  /etc/ssh/sshd_config
 |4,39,63,25,1661171508,"/etc/ssh/sshd_config"
 -'  63  25  /etc/ssh/sshd_config
@@ -62,6 +74,14 @@
 |4,39,101,4,1661171431,"/etc/sudoers"
 -'  101  4  /etc/sudoers
 |4,39,101,4,1661171431,"/etc/sudoers"
+-'  101  4  /etc/sudoers
+|4,39,101,4,1661171431,"/etc/sudoers"
+-'  101  4  /etc/sudoers
+|4,39,101,4,1661171431,"/etc/sudoers"
+-'  101  4  /etc/sudoers
+|4,39,101,4,1661171431,"/etc/sudoers"
+-'  101  4  /etc/sudoers
+|4,39,101,4,1661171431,"/etc/sudoers"
 -'  1  0  /etc/sudoers
 |4,39,1,0,1661171396,"/etc/sudoers"
 -'  1  0  /etc/sudoers
@@ -70,6 +90,22 @@
 |4,39,1,0,1661171396,"/etc/sudoers"
 -'  1  0  /etc/sudoers
 |4,39,1,0,1661171396,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1661171396,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1661171396,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1661171396,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1661171396,"/etc/sudoers"
+-'  63  25  /etc/ssh/sshd_config
+|4,39,63,25,1661171363,"/etc/ssh/sshd_config"
+-'  63  25  /etc/ssh/sshd_config
+|4,39,63,25,1661171363,"/etc/ssh/sshd_config"
+-'  63  25  /etc/ssh/sshd_config
+|4,39,63,25,1661171363,"/etc/ssh/sshd_config"
+-'  63  25  /etc/ssh/sshd_config
+|4,39,63,25,1661171363,"/etc/ssh/sshd_config"
 -'  63  25  /etc/ssh/sshd_config
 |4,39,63,25,1661171363,"/etc/ssh/sshd_config"
 -'  63  25  /etc/ssh/sshd_config
@@ -90,6 +126,50 @@
 |4,39,1,0,1661171273,"/etc/ssh/sshd_config"
 -'  1  0  /etc/ssh/sshd_config
 |4,39,1,0,1661171273,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1661171273,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1661171273,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1661171273,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1661171273,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1661171273,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1661171273,"/etc/ssh/sshd_config"
+-'  1  0  ~/etc/passwd
+|4,39,1,0,1661170105,"~/etc/passwd"
+-'  1  0  ~/etc/passwd
+|4,39,1,0,1661170105,"~/etc/passwd"
+-'  1  0  ~/etc/passwd
+|4,39,1,0,1661170105,"~/etc/passwd"
+-'  1  0  ~/etc/passwd
+|4,39,1,0,1661170105,"~/etc/passwd"
+-'  1  0  ~/etc/passwd
+|4,39,1,0,1661170105,"~/etc/passwd"
+-'  1  0  ~/etc/passwd
+|4,39,1,0,1661170105,"~/etc/passwd"
+-'  1  0  ~/etc/passwd
+|4,39,1,0,1661170105,"~/etc/passwd"
+-'  1  0  ~/etc/passwd
+|4,39,1,0,1661170105,"~/etc/passwd"
+-'  1  0  ~/etc/passwd
+|4,39,1,0,1661170105,"~/etc/passwd"
+-'  1  0  ~/etc/passwd
+|4,39,1,0,1661170105,"~/etc/passwd"
+-'  1  0  ~/etc/passwd
+|4,39,1,0,1661170105,"~/etc/passwd"
+-'  1  0  ~/etc/passwd
+|4,39,1,0,1661170105,"~/etc/passwd"
+-'  1  0  ~/etc/passwd
+|4,39,1,0,1661170105,"~/etc/passwd"
+-'  1  0  ~/etc/passwd
+|4,39,1,0,1661170105,"~/etc/passwd"
+-'  1  0  ~/etc/passwd
+|4,39,1,0,1661170105,"~/etc/passwd"
+-'  1  0  ~/etc/passwd
+|4,39,1,0,1661170105,"~/etc/passwd"
 -'  1  0  ~/etc/passwd
 |4,39,1,0,1661170105,"~/etc/passwd"
 -'  1  0  ~/etc/passwd
@@ -126,9 +206,9 @@
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore.txt
-	*	1661173797	0
-	"	1	5
-	^	1	6
+	*	1661173909	0
+	"	1	4
+	^	1	5
 	.	1	5
 	+	1	5
 
